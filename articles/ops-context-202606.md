@@ -67,7 +67,7 @@ OpsContextは、ERPが記録しない「判断」を、業務データの隣に�
 
 ![基幹データセット画面 — 顧客マスタ（与信枠・使用額・残枠）](/images/screenshot-dataset.png)
 
-## システム概要
+## システムアーキテクチャ図
 
 ![アーキテクチャ図](/images/azure-architecture.drawio.png)
 
